@@ -5,7 +5,7 @@ import MeetingImage from "../assets/images/image-header-desktop.jpg";
 const NewCard = () => {
   return (
     <div
-      className="flex-row max-lg:w-[60%] max-lg:h-[30%] max-lg:mt-1 max-lg:flex-col-reverse max-sm:flex-col-reverse max-sm:w-[80%] max-sm:m-auto max-sm:h-[30%] max-sm:mt-4
+      className="lg:w-[70%] lg:m-auto lg:mt-[15%] flex-row max-lg:w-[60%] max-lg:h-[30%] max-lg:mt-1 max-lg:flex-col-reverse max-sm:flex-col-reverse max-sm:w-[80%] max-sm:m-auto max-sm:h-[30%] max-sm:mt-4
     
     w-[60%] ml-[21%] h-[29.5rem] mt-[15rem]  m-auto flex ">
       {/* efcvef */}

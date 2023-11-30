@@ -10,7 +10,7 @@ const NewCard = () => {
     w-[60%] ml-[21%] h-[29.5rem] mt-[15rem]  m-auto flex ">
       {/* efcvef */}
       <div
-        className="max-lg:w-[100%] max-lg:m-auto max-lg:rounded-t-none max-lg:rounded-b-2xl max-sm:w-[100%] max-sm:rounded-t-none max-sm:rounded-b-2xl
+        className="lg:w-[70%] max-lg:w-[100%] max-lg:m-auto max-lg:rounded-t-none max-lg:rounded-b-2xl max-sm:w-[100%] max-sm:rounded-t-none max-sm:rounded-b-2xl
       w-[50%] bg-[#1B1938] rounded-l-2xl pt-10">
         <div
           className="max-lg:w-[80%] max-lg:mt-2 max-lg:text-center max-sm:w-[85%] max-sm:m-auto max-sm:text-center
@@ -26,7 +26,7 @@ const NewCard = () => {
             regardings revenue, customer experience, and overall efficiency.
           </p>
           <div
-            className=" max-lg:inline-grid max-lg:gap-10 max-sm:inline-grid max-lg:mt-12  max-sm:gap-8
+            className="lg:w-[85%] max-lg:inline-grid max-lg:gap-10 max-sm:inline-grid max-lg:mt-12  max-sm:gap-8
              flex justify-between mt-[4.2rem] font-inter">
             <div>
               <div
